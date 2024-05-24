@@ -1,6 +1,6 @@
 {
-  "name": "@asakatsu/asakatsu-eslint-prettier-react",
-  "version": "1.0.0",
+  "name": "@asakatsu/eslint-prettier-react",
+  "version": "1.0.1",
   "description": "Asakatsu's ESLint/Prettier",
   "scripts": {},
   "license": "MIT",
