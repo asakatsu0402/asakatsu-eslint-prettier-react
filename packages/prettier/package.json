@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
     "directory": "packages/prettier"
   },
   "author": {
@@ -14,9 +14,9 @@
   },
   "main": "index.json",
   "bugs": {
-    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react/issues"
+    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react/issues"
   },
-  "homepage": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+  "homepage": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
   "files": ["index.json", ".prettierignore"],
   "engines": {
     "node": ">= 14"
