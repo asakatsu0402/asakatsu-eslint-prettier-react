@@ -1,0 +1,43 @@
+{
+  "name": "@asakatsu/eslint-react",
+  "version": "1.0.0",
+  "description": "Asakatsu's ESLint config",
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+    "directory": "packages/eslint"
+  },
+  "author": {
+    "name": "asakatsu",
+    "url": "https://github.com/asakatsu0402"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react/issues"
+  },
+  "homepage": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+  "engines": {
+    "node": ">= 14"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.10.0",
+    "@typescript-eslint/parser": "^7.10.0",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.2.3",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "eslint-plugin-storybook": "^0.8.0",
+    "eslint-plugin-typescript-sort-keys": "^3.2.0",
+    "eslint-plugin-unused-imports": "^3.2.0"
+  },
+  "peerDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

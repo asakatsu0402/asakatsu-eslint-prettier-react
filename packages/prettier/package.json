@@ -1,0 +1,27 @@
+{
+  "name": "@asakatsu/prettier-react",
+  "version": "1.0.0",
+  "description": "Asakatsu's prettier config",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+    "directory": "packages/prettier"
+  },
+  "author": {
+    "name": "asakatsu",
+    "url": "https://github.com/asakatsu0402"
+  },
+  "main": "index.json",
+  "bugs": {
+    "url": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react/issues"
+  },
+  "homepage": "https://github.com/asakatsu0402/eslint-config-asakatsulint-react",
+  "files": ["index.json", ".prettierignore"],
+  "engines": {
+    "node": ">= 14"
+  },
+  "dependencies": {
+    "prettier": "^3.2.5"
+  }
+}
