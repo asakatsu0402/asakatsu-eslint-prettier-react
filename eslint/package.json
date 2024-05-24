@@ -1,7 +1,7 @@
 {
   "name": "@asakatsu/eslint-react",
-  "version": "1.0.1",
-  "description": "Asakatsu's ESLint config",
+  "version": "1.0.0",
+  "description": "Asakatsu's ESLint",
   "scripts": {
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react",
     "directory": "packages/eslint"
   },
   "author": {
@@ -18,9 +18,9 @@
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react/issues"
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react/issues"
   },
-  "homepage": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
+  "homepage": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react",
   "engines": {
     "node": ">= 14"
   },
@@ -31,6 +31,8 @@
     "eslint-config-next": "^14.2.3",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "eslint-plugin-prettier": "^5.1.3",
     "eslint-plugin-react": "^7.34.1",
     "eslint-plugin-sort-keys-fix": "^1.1.2",
     "eslint-plugin-storybook": "^0.8.0",

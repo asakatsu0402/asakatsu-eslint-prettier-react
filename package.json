@@ -1,19 +1,19 @@
 {
-  "name": "@asakatsu/eslint-prettier-react",
-  "version": "1.0.1",
-  "description": "Asakatsu's ESLint/Prettier",
+  "name": "@asakatsu/linter-formatter-react",
+  "version": "1.0.0",
+  "description": "Asakatsu's ESLint/Stylelint/Prettier",
   "scripts": {},
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react"
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react"
   },
   "author": {
     "name": "asakatsu",
     "url": "https://github.com/asakatsu0402"
   },
   "bugs": {
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react/issues"
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react/issues"
   },
-  "homepage": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react"
+  "homepage": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react"
 }

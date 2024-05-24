@@ -1,11 +1,11 @@
 {
   "name": "@asakatsu/prettier-react",
-  "version": "1.0.1",
-  "description": "Asakatsu's prettier config",
+  "version": "1.0.0",
+  "description": "Asakatsu's Prettier",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react",
     "directory": "packages/prettier"
   },
   "author": {
@@ -14,9 +14,9 @@
   },
   "main": "index.json",
   "bugs": {
-    "url": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react/issues"
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react/issues"
   },
-  "homepage": "https://github.com/asakatsu0402/asakatsu-eslint-prettier-react",
+  "homepage": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react",
   "files": ["index.json", ".prettierignore"],
   "engines": {
     "node": ">= 14"

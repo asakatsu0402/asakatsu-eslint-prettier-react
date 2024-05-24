@@ -8,8 +8,6 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     // prop types を使っていないので off
     'react/prop-types': 'off',
-    // <Component {...props}>を許可する
-    'react/react-in-jsx-scope': 'off',
     // 順序の入れ替えがない場合はok
     'react/no-array-index-key': 'off',
     // component の props の destructuring を非必須にする

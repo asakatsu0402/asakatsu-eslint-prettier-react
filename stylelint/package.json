@@ -1,0 +1,31 @@
+{
+  "name": "@asakatsu/stylelint-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "lint": "stylelint --ignore-path",
+    "lint:fix": "pnpm lint -- --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react"
+  },
+  "author": {
+    "name": "asakatsu",
+    "url": "https://github.com/asakatsu0402"
+  },
+  "bugs": {
+    "url": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react/issues"
+  },
+  "homepage": "https://github.com/asakatsu0402/asakatsu-linter-formatter-react",
+  "dependencies": {
+    "stylelint": "^16.1.0",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-order": "^6.0.4"
+  },
+  "peerDependencies": {
+    "stylelint": "^16.6.0"
+  }
+}
